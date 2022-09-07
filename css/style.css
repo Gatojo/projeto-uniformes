@@ -1,0 +1,140 @@
+
+body  {  	
+	margin: 0;  	
+	padding: 0;  	
+	background: #ddd;  
+	}  
+#navbar-navbar-expand-lg-navbar-light-bg-light{
+    background-color: #A86806;
+    background: #23232e;
+    
+}
+.navbar-nav{
+   right: 100rem;
+   text-align: center;
+
+}  
+.navbar-brand{
+    color: #6F9;
+    text-align: center;
+}
+#container  {  	
+	margin: 1em auto;  	 	
+	background: #fff;  
+	} 
+.logo-uniforme{
+    color: red;
+    font-size: 20px;
+}   
+#header {background: #b3b3b3;
+text-align: center;
+color: #9F3;
+font-size: 1rem;}  
+ 
+#menu  {  	
+	float: right;  	
+	width: 165px;  	
+	background: #6F9;  
+	}    
+#contents  {  	
+	float: left;  	
+	width: 440px;  	
+	background: rgb(255, 153, 212);  	
+	margin: 0 0 0 20px;  
+	}    
+ 
+
+	button.btn.btn-contratar {
+		background: #13110fe0;
+		color: #ffa200;
+	  }
+	  button.btn.btn-close {
+		background: rgb(233, 232, 232);
+		color: #000;
+	  }
+	  .row {
+		display: flex;
+		justify-content: center;
+		font-size: 20px;
+		letter-spacing: -2.4px;
+		color: #040606;
+	  }
+
+	
+	  .card {
+		max-width: 250px;
+		min-height: 150px;
+		border: solid 2px #0B15DF;
+	  }
+	  .card img {
+		object-fit: cover;
+	  }
+	  .contato-box h2 {
+		margin-bottom: 85px;
+		text-align: center;
+	  
+		margin-top: 85px;
+	  }
+	  .contato-box .container {
+		border: solid 1px #cccc;
+		padding: 20px 60px;
+	  }
+	  
+	  .contato-box {
+		margin: 83px 10px;
+	  }	
+	  .card img {
+		object-fit: cover;
+	  }
+
+.card-text{
+	list-style-type: none;
+	color: #069EA8;
+	
+}
+
+.card-text a {
+	color: #000;
+	text-align: center;
+}
+.card-title{
+	text-align: center;
+	color: #0B15DF;
+}
+.card-body {
+	background-color: #9B9CB0;
+  }
+  .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    /* margin-right: -15px; */
+    margin-left: -15px;
+}
+.whatsapp-link {
+	position: fixed;
+	width: 60px;
+	height: 60px;
+	bottom: 30px;
+	right: 20px;
+	background-color: #25d366;
+	color: #fff;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 30px;
+	box-shadow: 1px 1px 2px #888;
+	z-index: 1000;
+}
+
+.fa-whatsapp {
+	margin-top: 16px;
+}
+.footer {
+	color: #040705;
+	background: #007bff;
+} 
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
